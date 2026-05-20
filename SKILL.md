@@ -1,7 +1,6 @@
 # 📖 Quran Skills for OpenClaw
 
-> 58 Quranic verses with Arabic recitation + English translation + your choice of 3rd language.
-> 16 categories covering everyday life: Healing, Protection, Forgiveness, Patience, and more.
+> Complete Quran with Arabic recitation (Mishary Al-Afasy), English translation (Yusuf Ali), and your choice of 3rd language. Includes 58 curated dua verses across 16 life categories — plus full surah access and smart verse search.
 
 ## What's Included
 

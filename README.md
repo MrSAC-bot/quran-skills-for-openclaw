@@ -1,35 +1,39 @@
 # 📖 Quran Skills for OpenClaw
 
-**Your daily Quran companion — verse, recitation, and translation in one click.**
+**Complete Quran with Arabic recitation, English translation, and your choice of 3rd language.**
 
-58 Quranic verses across 16 life categories with Mishary Al-Afasy recitation + English (Yusuf Ali) + your choice of 3rd language.
+This skill brings the Holy Quran to your fingertips with Mishary Al-Afasy's beautiful recitation, Abdullah Yusuf Ali's trusted English translation, and your selected third language — all delivered through simple commands.
 
-### Quick Start
+### What You Can Do
 
-```
-/dua              → Browse categories
-/dua healing      → Verses for healing
-/search sad       → Find comforting verses
-/aya 2:255        → Ayat-ul-Kursi
-/random           → Surprise me
-```
+| Command | Purpose |
+|---------|---------|
+| `/dua` | Browse 16 curated dua categories |
+| `/dua healing` | Get duas for a specific need |
+| `/search mercy` | Find verses by keyword or feeling |
+| `/aya 2:255` | Read any verse with recitation |
+| `/surah` | Listen to a full surah |
+| `/random` | Discover a random verse |
+| `/daily` | Verse of the day |
+
+### The Complete Quran
+
+Unlike basic dua collections, this skill provides access to the entire Quran — any surah, any ayah — with professional-grade recitation and translation. The 16 curated categories simply give you a quick starting point for common needs.
+
+### Languages
+
+- **Arabic**: Mishary Al-Afasy recitation
+- **English**: Yusuf Ali translation (always included)
+- **Your choice**: Urdu, Turkish, Spanish, French, or any language — selected at install time
 
 ### Installation
 
 ```bash
-clawhub install dua-companion
+clawhub install quran-skills-for-openclaw
 ```
 
-During install, choose your 3rd language:
-Urdu · Turkish · Spanish · French · or download another
+During installation, choose your preferred third language from the available options.
 
-### What's Inside
+### License
 
-```
-📂 categories/     → 16 categories with verses
-📂 adhkar/        → Morning & Evening supplications
-📂 translations/  → Language packs (download on demand)
-📄 SKILL.md       → Full command reference
-```
-
-Built with ❤️ for the global Muslim community.
+Open source for the global Muslim community. Quran content is public domain.
