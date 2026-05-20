@@ -1,0 +1,29 @@
+{
+  "skill": "Quran Skills for OpenClaw",
+  "version": "1.0.0",
+  "description": "58 Quranic verses with Arabic recitation + English translation",
+  "categories": [
+    { "id": 1, "name": "Healing & Sickness", "slug": "healing", "verses": ["26:80", "17:82", "41:44", "9:14"], "emoji": "🏥" },
+    { "id": 2, "name": "Anxiety & Stress", "slug": "anxiety", "verses": ["3:173", "21:87", "3:8", "13:28"], "emoji": "😰" },
+    { "id": 3, "name": "Protection", "slug": "protection", "verses": ["2:255", "113:1", "114:1", "112:1", "23:97"], "emoji": "🛡️" },
+    { "id": 4, "name": "Sleep & Rest", "slug": "sleep", "verses": ["39:42", "3:190", "30:23"], "emoji": "😴" },
+    { "id": 5, "name": "Forgiveness", "slug": "forgiveness", "verses": ["2:201", "2:286", "23:118", "7:23", "3:16", "3:147"], "emoji": "🤲" },
+    { "id": 6, "name": "Travel & Safety", "slug": "travel", "verses": ["43:12", "20:53", "55:24"], "emoji": "✈️" },
+    { "id": 7, "name": "Comfort & Grief", "slug": "comfort", "verses": ["2:156", "2:157", "42:30"], "emoji": "😢" },
+    { "id": 8, "name": "Knowledge", "slug": "knowledge", "verses": ["20:114", "2:32"], "emoji": "📖" },
+    { "id": 9, "name": "Gratitude & Praise", "slug": "gratitude", "verses": ["1:1", "14:7", "27:19", "46:15"], "emoji": "🙏" },
+    { "id": 10, "name": "Patience & Perseverance", "slug": "patience", "verses": ["2:153", "3:200", "2:250"], "emoji": "💪" },
+    { "id": 11, "name": "Family & Parents", "slug": "family", "verses": ["17:24", "25:74", "14:40", "46:15"], "emoji": "👨‍👩‍👧‍👦" },
+    { "id": 12, "name": "Sustenance & Provision", "slug": "sustenance", "verses": ["2:245", "65:2", "35:2"], "emoji": "💰" },
+    { "id": 13, "name": "Children", "slug": "children", "verses": ["3:38", "19:3", "37:100"], "emoji": "👶" },
+    { "id": 14, "name": "Guidance", "slug": "guidance", "verses": ["1:6", "18:10", "18:24"], "emoji": "🧭" },
+    { "id": 15, "name": "Hardship & Justice", "slug": "hardship", "verses": ["7:23", "28:21", "26:169"], "emoji": "⚖️" },
+    { "id": 16, "name": "General Supplications", "slug": "general", "verses": ["2:127", "40:7", "40:8", "40:9", "7:155"], "emoji": "🌍" }
+  ],
+  "commands": ["/dua", "/dua healing", "/search", "/aya 2:255", "/surah", "/random", "/daily", "/help"],
+  "audio": {
+    "arabic": "Mishary Al-Afasy",
+    "english": "Ryan TTS (Yusuf Ali translation)",
+    "third_language": "User selects at install"
+  }
+}
