@@ -65,12 +65,14 @@ Only the language you pick is downloaded — keeps the skill lightweight.
 
 ## Addons (included)
 
-- 🕌 Prayer Companion — prayer reminders with verses
-- 📊 Habit Tracker — daily spiritual micro-habits
-- 🌙 Ramadan Helper — fasting tracker & duas
-- ❤️ Mood Support — feelings → comforting verses
-- 📅 Islamic Calendar — hijri dates & events
-- 👥 Community — share duas with others
+| Addon | File | Command |
+|-------|------|---------|
+| 🕌 Prayer Companion | `addons/prayer-companion.md` | `/prayer` |
+| 📊 Habit Tracker | `addons/habit-tracker.md` | `/habit` |
+| 🌙 Ramadan Helper | `addons/ramadan-helper.md` | `/ramadan` |
+| ❤️ Mood Support | `addons/mood-support.md` | `/mood` |
+| 📅 Islamic Calendar | `addons/islamic-calendar.md` | `/calendar` |
+| 👥 Community | `addons/community.md` | `/share` |
 
 ## Installation
 
