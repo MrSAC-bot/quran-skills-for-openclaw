@@ -1,0 +1,8 @@
+# Audio files (too large for git, download separately)
+*.mp3
+*.wav
+*.ogg
+
+# Temp
+.DS_Store
+Thumbs.db
